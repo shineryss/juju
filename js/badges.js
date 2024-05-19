@@ -25,5 +25,5 @@
     
     tippy("#oldname", {
     animation: 'scale',
-    content: "Originally known as juju#7777"
+    content: "Originally known as juju#fxst"
     });
